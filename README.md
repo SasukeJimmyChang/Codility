@@ -2,6 +2,7 @@
 Lesson 3-1
 [40%] PermMissingElem
 
+```ruby
 class Solution {
     public int solution(int[] A) {
         // write your code in Java SE 8
@@ -22,3 +23,4 @@ class Solution {
         return missingNum;
     }
 }
+```
